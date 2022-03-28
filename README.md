@@ -1,10 +1,10 @@
 # PyBer_Analysis
 
-# Overview of the analysis: Explain the purpose of the new analysis.
+**Overview of the analysis: Explain the purpose of the new analysis**
 
 The analysis was a summary of the Dataframe of the ride0-sharing data by city type. Pandas and Matplotlib was used to create a multiple-line graph to show weekly fares for each city type. The report and results summarizes data and the differences by city type in order to be utlized by decision makers at the company PyBer.
 
-# Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+**Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types**
 
 ![Fig1](https://user-images.githubusercontent.com/93094173/160310507-5da64a4e-790f-4c8d-b39d-940580c265ba.png)
 
